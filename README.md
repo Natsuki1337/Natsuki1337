@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Natsuki1337
+- 👀 I’m interested in Coding And Anime
+- 🌱 I’m currently learning A Python And Java
